@@ -2,436 +2,436 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/vi/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/"
                 />
   </url><url>
-    <loc>/vi/1-introduce/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/1-introduce/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/1-introduce/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/1-introduce/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/1-introduce/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/1-introduce/"
                 />
   </url><url>
-    <loc>/vi/2-firewallinvpc/2.1-securitygroup/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/2-firewallinvpc/2.1-securitygroup/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/2-firewallinvpc/2.1-securitygroup/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/2-firewallinvpc/2.1-securitygroup/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/2-firewallinvpc/2.1-securitygroup/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/2-firewallinvpc/2.1-securitygroup/"
                 />
   </url><url>
-    <loc>/vi/1-introduce/1.1-subnets/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/1-introduce/1.1-subnets/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/1-introduce/1.1-subnets/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/1-introduce/1.1-subnets/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/1-introduce/1.1-subnets/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/1-introduce/1.1-subnets/"
                 />
   </url><url>
-    <loc>/vi/4-createec2server/4.1-createec2/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/4-createec2server/4.1-createec2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/4-createec2server/4.1-createec2/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/4-createec2server/4.1-createec2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/4-createec2server/4.1-createec2/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/4-createec2server/4.1-createec2/"
                 />
   </url><url>
-    <loc>/vi/5-vpnsitetosite/5.1-createvpnenv/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/5-vpnsitetosite/5.1-createvpnenv/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/5-vpnsitetosite/5.1-createvpnenv/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/5-vpnsitetosite/5.1-createvpnenv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/5-vpnsitetosite/5.1-createvpnenv/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/5-vpnsitetosite/5.1-createvpnenv/"
                 />
   </url><url>
-    <loc>/vi/5-vpnsitetosite/5.2-vpnsitetosite/5.2.1-createvpgw/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/5-vpnsitetosite/5.2-vpnsitetosite/5.2.1-createvpgw/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/5-vpnsitetosite/5.2-vpnsitetosite/5.2.1-createvpgw/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/5-vpnsitetosite/5.2-vpnsitetosite/5.2.1-createvpgw/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/5-vpnsitetosite/5.2-vpnsitetosite/5.2.1-createvpgw/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/5-vpnsitetosite/5.2-vpnsitetosite/5.2.1-createvpgw/"
                 />
   </url><url>
-    <loc>/vi/3-prerequiste/3.1-createvpc/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/3-prerequiste/3.1-createvpc/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/3-prerequiste/3.1-createvpc/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/3-prerequiste/3.1-createvpc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/3-prerequiste/3.1-createvpc/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/3-prerequiste/3.1-createvpc/"
                 />
   </url><url>
-    <loc>/vi/5-vpnsitetosite/5.1-createvpnenv/5.1.1-createvpnvpc/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/5-vpnsitetosite/5.1-createvpnenv/5.1.1-createvpnvpc/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/5-vpnsitetosite/5.1-createvpnenv/5.1.1-createvpnvpc/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/5-vpnsitetosite/5.1-createvpnenv/5.1.1-createvpnvpc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/5-vpnsitetosite/5.1-createvpnenv/5.1.1-createvpnvpc/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/5-vpnsitetosite/5.1-createvpnenv/5.1.1-createvpnvpc/"
                 />
   </url><url>
-    <loc>/vi/5-vpnsitetosite/5.2-vpnsitetosite/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/5-vpnsitetosite/5.2-vpnsitetosite/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/5-vpnsitetosite/5.2-vpnsitetosite/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/5-vpnsitetosite/5.2-vpnsitetosite/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/5-vpnsitetosite/5.2-vpnsitetosite/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/5-vpnsitetosite/5.2-vpnsitetosite/"
                 />
   </url><url>
-    <loc>/vi/4-createec2server/4.2-connectec2/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/4-createec2server/4.2-connectec2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/4-createec2server/4.2-connectec2/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/4-createec2server/4.2-connectec2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/4-createec2server/4.2-connectec2/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/4-createec2server/4.2-connectec2/"
                 />
   </url><url>
-    <loc>/vi/2-firewallinvpc/2.2-networkacls/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/2-firewallinvpc/2.2-networkacls/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/2-firewallinvpc/2.2-networkacls/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/2-firewallinvpc/2.2-networkacls/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/2-firewallinvpc/2.2-networkacls/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/2-firewallinvpc/2.2-networkacls/"
                 />
   </url><url>
-    <loc>/vi/1-introduce/1.2-routetable/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/1-introduce/1.2-routetable/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/1-introduce/1.2-routetable/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/1-introduce/1.2-routetable/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/1-introduce/1.2-routetable/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/1-introduce/1.2-routetable/"
                 />
   </url><url>
-    <loc>/vi/5-vpnsitetosite/5.2-vpnsitetosite/5.2.2-createcustomergw/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/5-vpnsitetosite/5.2-vpnsitetosite/5.2.2-createcustomergw/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/5-vpnsitetosite/5.2-vpnsitetosite/5.2.2-createcustomergw/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/5-vpnsitetosite/5.2-vpnsitetosite/5.2.2-createcustomergw/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/5-vpnsitetosite/5.2-vpnsitetosite/5.2.2-createcustomergw/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/5-vpnsitetosite/5.2-vpnsitetosite/5.2.2-createcustomergw/"
                 />
   </url><url>
-    <loc>/vi/5-vpnsitetosite/5.1-createvpnenv/5.1.2-createec2vpn/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/5-vpnsitetosite/5.1-createvpnenv/5.1.2-createec2vpn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/5-vpnsitetosite/5.1-createvpnenv/5.1.2-createec2vpn/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/5-vpnsitetosite/5.1-createvpnenv/5.1.2-createec2vpn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/5-vpnsitetosite/5.1-createvpnenv/5.1.2-createec2vpn/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/5-vpnsitetosite/5.1-createvpnenv/5.1.2-createec2vpn/"
                 />
   </url><url>
-    <loc>/vi/3-prerequiste/3.2-createsubnet/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/3-prerequiste/3.2-createsubnet/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/3-prerequiste/3.2-createsubnet/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/3-prerequiste/3.2-createsubnet/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/3-prerequiste/3.2-createsubnet/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/3-prerequiste/3.2-createsubnet/"
                 />
   </url><url>
-    <loc>/vi/2-firewallinvpc/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/2-firewallinvpc/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/2-firewallinvpc/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/2-firewallinvpc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/2-firewallinvpc/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/2-firewallinvpc/"
                 />
   </url><url>
-    <loc>/vi/3-prerequiste/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/3-prerequiste/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/3-prerequiste/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/3-prerequiste/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/3-prerequiste/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/3-prerequiste/"
                 />
   </url><url>
-    <loc>/vi/1-introduce/1.3-internetgateway/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/1-introduce/1.3-internetgateway/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/1-introduce/1.3-internetgateway/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/1-introduce/1.3-internetgateway/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/1-introduce/1.3-internetgateway/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/1-introduce/1.3-internetgateway/"
                 />
   </url><url>
-    <loc>/vi/3-prerequiste/3.3-createigw/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/3-prerequiste/3.3-createigw/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/3-prerequiste/3.3-createigw/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/3-prerequiste/3.3-createigw/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/3-prerequiste/3.3-createigw/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/3-prerequiste/3.3-createigw/"
                 />
   </url><url>
-    <loc>/vi/5-vpnsitetosite/5.2-vpnsitetosite/5.2.3-createvpnconnection/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/5-vpnsitetosite/5.2-vpnsitetosite/5.2.3-createvpnconnection/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/5-vpnsitetosite/5.2-vpnsitetosite/5.2.3-createvpnconnection/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/5-vpnsitetosite/5.2-vpnsitetosite/5.2.3-createvpnconnection/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/5-vpnsitetosite/5.2-vpnsitetosite/5.2.3-createvpnconnection/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/5-vpnsitetosite/5.2-vpnsitetosite/5.2.3-createvpnconnection/"
                 />
   </url><url>
-    <loc>/vi/4-createec2server/4.3-natgateway/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/4-createec2server/4.3-natgateway/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/4-createec2server/4.3-natgateway/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/4-createec2server/4.3-natgateway/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/4-createec2server/4.3-natgateway/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/4-createec2server/4.3-natgateway/"
                 />
   </url><url>
-    <loc>/vi/2-firewallinvpc/2.3-vpc-resource-map/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/2-firewallinvpc/2.3-vpc-resource-map/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/2-firewallinvpc/2.3-vpc-resource-map/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/2-firewallinvpc/2.3-vpc-resource-map/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/2-firewallinvpc/2.3-vpc-resource-map/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/2-firewallinvpc/2.3-vpc-resource-map/"
                 />
   </url><url>
-    <loc>/vi/5-vpnsitetosite/5.2-vpnsitetosite/5.2.4-configurecustomergw/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/5-vpnsitetosite/5.2-vpnsitetosite/5.2.4-configurecustomergw/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/5-vpnsitetosite/5.2-vpnsitetosite/5.2.4-configurecustomergw/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/5-vpnsitetosite/5.2-vpnsitetosite/5.2.4-configurecustomergw/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/5-vpnsitetosite/5.2-vpnsitetosite/5.2.4-configurecustomergw/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/5-vpnsitetosite/5.2-vpnsitetosite/5.2.4-configurecustomergw/"
                 />
   </url><url>
-    <loc>/vi/1-introduce/1.4-natgateway/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/1-introduce/1.4-natgateway/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/1-introduce/1.4-natgateway/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/1-introduce/1.4-natgateway/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/1-introduce/1.4-natgateway/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/1-introduce/1.4-natgateway/"
                 />
   </url><url>
-    <loc>/vi/4-createec2server/4.4.-createreachabilityanalyzer/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/4-createec2server/4.4.-createreachabilityanalyzer/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/4-createec2server/4.4.-createreachabilityanalyzer/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/4-createec2server/4.4.-createreachabilityanalyzer/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/4-createec2server/4.4.-createreachabilityanalyzer/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/4-createec2server/4.4.-createreachabilityanalyzer/"
                 />
   </url><url>
-    <loc>/vi/4-createec2server/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/4-createec2server/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/4-createec2server/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/4-createec2server/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/4-createec2server/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/4-createec2server/"
                 />
   </url><url>
-    <loc>/vi/3-prerequiste/3.4-cretaeroutetable/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/3-prerequiste/3.4-cretaeroutetable/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/3-prerequiste/3.4-cretaeroutetable/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/3-prerequiste/3.4-cretaeroutetable/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/3-prerequiste/3.4-cretaeroutetable/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/3-prerequiste/3.4-cretaeroutetable/"
                 />
   </url><url>
-    <loc>/vi/5-vpnsitetosite/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/5-vpnsitetosite/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/5-vpnsitetosite/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/5-vpnsitetosite/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/5-vpnsitetosite/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/5-vpnsitetosite/"
                 />
   </url><url>
-    <loc>/vi/4-createec2server/4.5-eicendpoint/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/4-createec2server/4.5-eicendpoint/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/4-createec2server/4.5-eicendpoint/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/4-createec2server/4.5-eicendpoint/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/4-createec2server/4.5-eicendpoint/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/4-createec2server/4.5-eicendpoint/"
                 />
   </url><url>
-    <loc>/vi/3-prerequiste/3.5-createsecuritygroup/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/3-prerequiste/3.5-createsecuritygroup/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/3-prerequiste/3.5-createsecuritygroup/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/3-prerequiste/3.5-createsecuritygroup/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/3-prerequiste/3.5-createsecuritygroup/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/3-prerequiste/3.5-createsecuritygroup/"
                 />
   </url><url>
-    <loc>/vi/5-vpnsitetosite/5.2-vpnsitetosite/5.2.5-modifyvpn/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/5-vpnsitetosite/5.2-vpnsitetosite/5.2.5-modifyvpn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/5-vpnsitetosite/5.2-vpnsitetosite/5.2.5-modifyvpn/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/5-vpnsitetosite/5.2-vpnsitetosite/5.2.5-modifyvpn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/5-vpnsitetosite/5.2-vpnsitetosite/5.2.5-modifyvpn/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/5-vpnsitetosite/5.2-vpnsitetosite/5.2.5-modifyvpn/"
                 />
   </url><url>
-    <loc>/vi/6-cleanup/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/6-cleanup/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/6-cleanup/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/6-cleanup/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/6-cleanup/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/6-cleanup/"
                 />
   </url><url>
-    <loc>/vi/7-test/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/7-test/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/7-test/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/7-test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/7-test/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/7-test/"
                 />
   </url><url>
-    <loc>/vi/categories/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/categories/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/categories/"
                 />
   </url><url>
-    <loc>/vi/tags/</loc>
+    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="/vi/tags/"
+                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/tags/"
                 />
   </url>
 </urlset>

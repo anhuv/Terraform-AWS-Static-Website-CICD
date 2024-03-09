@@ -7,26 +7,26 @@
     <meta name="description" content="">
 <meta name="author" content="journeyoftheaverageguy@gmail.com">
 
-    <link rel="icon" href="/images/favicon.png" type="image/png">
+    <link rel="icon" href="/cicd_lambda_canary_deployment/images/favicon.png" type="image/png">
 
     <title>Create VPC for VPN :: Start with Amazon VPC and AWS VPN Site-to-Site.</title>
 
     
-    <link href="/css/nucleus.css?1709976556" rel="stylesheet">
-    <link href="/css/fontawesome-all.min.css?1709976556" rel="stylesheet">
-    <link href="/css/hybrid.css?1709976556" rel="stylesheet">
-    <link href="/css/featherlight.min.css?1709976556" rel="stylesheet">
-    <link href="/css/perfect-scrollbar.min.css?1709976556" rel="stylesheet">
-    <link href="/css/auto-complete.css?1709976556" rel="stylesheet">
-    <link href="/css/atom-one-dark-reasonable.css?1709976556" rel="stylesheet">
-    <link href="/css/theme.css?1709976556" rel="stylesheet">
-    <link href="/css/hugo-theme.css?1709976556" rel="stylesheet">
+    <link href="/cicd_lambda_canary_deployment/css/nucleus.css?1709976877" rel="stylesheet">
+    <link href="/cicd_lambda_canary_deployment/css/fontawesome-all.min.css?1709976877" rel="stylesheet">
+    <link href="/cicd_lambda_canary_deployment/css/hybrid.css?1709976877" rel="stylesheet">
+    <link href="/cicd_lambda_canary_deployment/css/featherlight.min.css?1709976877" rel="stylesheet">
+    <link href="/cicd_lambda_canary_deployment/css/perfect-scrollbar.min.css?1709976877" rel="stylesheet">
+    <link href="/cicd_lambda_canary_deployment/css/auto-complete.css?1709976877" rel="stylesheet">
+    <link href="/cicd_lambda_canary_deployment/css/atom-one-dark-reasonable.css?1709976877" rel="stylesheet">
+    <link href="/cicd_lambda_canary_deployment/css/theme.css?1709976877" rel="stylesheet">
+    <link href="/cicd_lambda_canary_deployment/css/hugo-theme.css?1709976877" rel="stylesheet">
     
-    <link href="/css/theme-workshop.css?1709976556" rel="stylesheet">
+    <link href="/cicd_lambda_canary_deployment/css/theme-workshop.css?1709976877" rel="stylesheet">
     
     
 
-    <script src="/js/jquery-3.3.1.min.js?1709976556"></script>
+    <script src="/cicd_lambda_canary_deployment/js/jquery-3.3.1.min.js?1709976877"></script>
 
     <style>
       :root #header + #content > #left > #rlblock_left{
@@ -36,7 +36,7 @@
     </style>
     
   </head>
-  <body class="" data-url="/5-vpnsitetosite/5.1-createvpnenv/5.1.1-createvpnvpc/">
+  <body class="" data-url="/cicd_lambda_canary_deployment/5-vpnsitetosite/5.1-createvpnenv/5.1.1-createvpnvpc/">
     <nav id="sidebar" class="showVisitedLinks">
 
 
@@ -57,14 +57,14 @@
     <span data-search-clear=""><i class="fas fa-times"></i></span>
 </div>
 
-<script type="text/javascript" src="/js/lunr.min.js?1709976556"></script>
-<script type="text/javascript" src="/js/auto-complete.js?1709976556"></script>
+<script type="text/javascript" src="/cicd_lambda_canary_deployment/js/lunr.min.js?1709976877"></script>
+<script type="text/javascript" src="/cicd_lambda_canary_deployment/js/auto-complete.js?1709976877"></script>
 <script type="text/javascript">
     
-        var baseurl = "\/";
+        var baseurl = "https:\/\/anhuv.github.io\/cicd_lambda_canary_deployment\/";
     
 </script>
-<script type="text/javascript" src="/js/search.js?1709976556"></script>
+<script type="text/javascript" src="/cicd_lambda_canary_deployment/js/search.js?1709976877"></script>
 
     
   </div>
@@ -82,12 +82,12 @@
  
   
     
-    <li data-nav-id="/1-introduce/" title="Introduction" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/1-introduce/" title="Introduction" class="dd-item 
         
         
         
         ">
-      <a href="/1-introduce/">
+      <a href="/cicd_lambda_canary_deployment/1-introduce/">
            <b> 1. </b> Introduction
           
             <i class="fas fa-check read-icon"></i>
@@ -113,12 +113,12 @@
  
   
     
-    <li data-nav-id="/1-introduce/1.1-subnets/" title="Subnets" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/1-introduce/1.1-subnets/" title="Subnets" class="dd-item 
         
         
         
         ">
-      <a href="/1-introduce/1.1-subnets/">
+      <a href="/cicd_lambda_canary_deployment/1-introduce/1.1-subnets/">
            <b> 1.1 </b> Subnets
           
             <i class="fas fa-check read-icon"></i>
@@ -141,12 +141,12 @@
  
   
     
-    <li data-nav-id="/1-introduce/1.2-routetable/" title="Route Table" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/1-introduce/1.2-routetable/" title="Route Table" class="dd-item 
         
         
         
         ">
-      <a href="/1-introduce/1.2-routetable/">
+      <a href="/cicd_lambda_canary_deployment/1-introduce/1.2-routetable/">
            <b> 1.2 </b> Route Table
           
             <i class="fas fa-check read-icon"></i>
@@ -169,12 +169,12 @@
  
   
     
-    <li data-nav-id="/1-introduce/1.3-internetgateway/" title="Internet Gateway" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/1-introduce/1.3-internetgateway/" title="Internet Gateway" class="dd-item 
         
         
         
         ">
-      <a href="/1-introduce/1.3-internetgateway/">
+      <a href="/cicd_lambda_canary_deployment/1-introduce/1.3-internetgateway/">
            <b> 1.3 </b> Internet Gateway
           
             <i class="fas fa-check read-icon"></i>
@@ -197,12 +197,12 @@
  
   
     
-    <li data-nav-id="/1-introduce/1.4-natgateway/" title="NAT Gateway" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/1-introduce/1.4-natgateway/" title="NAT Gateway" class="dd-item 
         
         
         
         ">
-      <a href="/1-introduce/1.4-natgateway/">
+      <a href="/cicd_lambda_canary_deployment/1-introduce/1.4-natgateway/">
            <b> 1.4 </b> NAT Gateway
           
             <i class="fas fa-check read-icon"></i>
@@ -232,12 +232,12 @@
  
   
     
-    <li data-nav-id="/2-firewallinvpc/" title="Firewall in VPC" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/2-firewallinvpc/" title="Firewall in VPC" class="dd-item 
         
         
         
         ">
-      <a href="/2-firewallinvpc/">
+      <a href="/cicd_lambda_canary_deployment/2-firewallinvpc/">
            <b> 2. </b> Firewall in VPC
           
             <i class="fas fa-check read-icon"></i>
@@ -263,12 +263,12 @@
  
   
     
-    <li data-nav-id="/2-firewallinvpc/2.1-securitygroup/" title="Security Group" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/2-firewallinvpc/2.1-securitygroup/" title="Security Group" class="dd-item 
         
         
         
         ">
-      <a href="/2-firewallinvpc/2.1-securitygroup/">
+      <a href="/cicd_lambda_canary_deployment/2-firewallinvpc/2.1-securitygroup/">
            <b> 2.1 </b> Security Group
           
             <i class="fas fa-check read-icon"></i>
@@ -291,12 +291,12 @@
  
   
     
-    <li data-nav-id="/2-firewallinvpc/2.2-networkacls/" title="Network ACLs" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/2-firewallinvpc/2.2-networkacls/" title="Network ACLs" class="dd-item 
         
         
         
         ">
-      <a href="/2-firewallinvpc/2.2-networkacls/">
+      <a href="/cicd_lambda_canary_deployment/2-firewallinvpc/2.2-networkacls/">
            <b> 2.2 </b> Network ACLs
           
             <i class="fas fa-check read-icon"></i>
@@ -319,12 +319,12 @@
  
   
     
-    <li data-nav-id="/2-firewallinvpc/2.3-vpc-resource-map/" title="VPC Resource Map" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/2-firewallinvpc/2.3-vpc-resource-map/" title="VPC Resource Map" class="dd-item 
         
         
         
         ">
-      <a href="/2-firewallinvpc/2.3-vpc-resource-map/">
+      <a href="/cicd_lambda_canary_deployment/2-firewallinvpc/2.3-vpc-resource-map/">
            <b> 2.3 </b> VPC Resource Map
           
             <i class="fas fa-check read-icon"></i>
@@ -354,12 +354,12 @@
  
   
     
-    <li data-nav-id="/3-prerequiste/" title="Preparation steps" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/3-prerequiste/" title="Preparation steps" class="dd-item 
         
         
         
         ">
-      <a href="/3-prerequiste/">
+      <a href="/cicd_lambda_canary_deployment/3-prerequiste/">
            <b> 3. </b> Preparation steps
           
             <i class="fas fa-check read-icon"></i>
@@ -385,12 +385,12 @@
  
   
     
-    <li data-nav-id="/3-prerequiste/3.1-createvpc/" title="Create VPC" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/3-prerequiste/3.1-createvpc/" title="Create VPC" class="dd-item 
         
         
         
         ">
-      <a href="/3-prerequiste/3.1-createvpc/">
+      <a href="/cicd_lambda_canary_deployment/3-prerequiste/3.1-createvpc/">
            <b> 3.1 </b> Create VPC
           
             <i class="fas fa-check read-icon"></i>
@@ -413,12 +413,12 @@
  
   
     
-    <li data-nav-id="/3-prerequiste/3.2-createsubnet/" title="Create Subnet" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/3-prerequiste/3.2-createsubnet/" title="Create Subnet" class="dd-item 
         
         
         
         ">
-      <a href="/3-prerequiste/3.2-createsubnet/">
+      <a href="/cicd_lambda_canary_deployment/3-prerequiste/3.2-createsubnet/">
            <b> 3.2 </b> Create Subnet
           
             <i class="fas fa-check read-icon"></i>
@@ -441,12 +441,12 @@
  
   
     
-    <li data-nav-id="/3-prerequiste/3.3-createigw/" title="Create Internet Gateway" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/3-prerequiste/3.3-createigw/" title="Create Internet Gateway" class="dd-item 
         
         
         
         ">
-      <a href="/3-prerequiste/3.3-createigw/">
+      <a href="/cicd_lambda_canary_deployment/3-prerequiste/3.3-createigw/">
            <b> 3.3 </b> Create Internet Gateway
           
             <i class="fas fa-check read-icon"></i>
@@ -469,12 +469,12 @@
  
   
     
-    <li data-nav-id="/3-prerequiste/3.4-cretaeroutetable/" title="Create Route Table" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/3-prerequiste/3.4-cretaeroutetable/" title="Create Route Table" class="dd-item 
         
         
         
         ">
-      <a href="/3-prerequiste/3.4-cretaeroutetable/">
+      <a href="/cicd_lambda_canary_deployment/3-prerequiste/3.4-cretaeroutetable/">
            <b> 3.4 </b> Create Route Table
           
             <i class="fas fa-check read-icon"></i>
@@ -497,12 +497,12 @@
  
   
     
-    <li data-nav-id="/3-prerequiste/3.5-createsecuritygroup/" title="Create Security Group" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/3-prerequiste/3.5-createsecuritygroup/" title="Create Security Group" class="dd-item 
         
         
         
         ">
-      <a href="/3-prerequiste/3.5-createsecuritygroup/">
+      <a href="/cicd_lambda_canary_deployment/3-prerequiste/3.5-createsecuritygroup/">
            <b> 3.5 </b> Create Security Group
           
             <i class="fas fa-check read-icon"></i>
@@ -532,12 +532,12 @@
  
   
     
-    <li data-nav-id="/4-createec2server/" title="Create EC2 Server" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/4-createec2server/" title="Create EC2 Server" class="dd-item 
         
         
         
         ">
-      <a href="/4-createec2server/">
+      <a href="/cicd_lambda_canary_deployment/4-createec2server/">
            <b> 4. </b> Create EC2 Server
           
             <i class="fas fa-check read-icon"></i>
@@ -563,12 +563,12 @@
  
   
     
-    <li data-nav-id="/4-createec2server/4.1-createec2/" title="Create EC2 Server" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/4-createec2server/4.1-createec2/" title="Create EC2 Server" class="dd-item 
         
         
         
         ">
-      <a href="/4-createec2server/4.1-createec2/">
+      <a href="/cicd_lambda_canary_deployment/4-createec2server/4.1-createec2/">
            <b> 4.1 </b> Create EC2 Server
           
             <i class="fas fa-check read-icon"></i>
@@ -591,12 +591,12 @@
  
   
     
-    <li data-nav-id="/4-createec2server/4.2-connectec2/" title="Test Connection" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/4-createec2server/4.2-connectec2/" title="Test Connection" class="dd-item 
         
         
         
         ">
-      <a href="/4-createec2server/4.2-connectec2/">
+      <a href="/cicd_lambda_canary_deployment/4-createec2server/4.2-connectec2/">
            <b> 4.2 </b> Test Connection
           
             <i class="fas fa-check read-icon"></i>
@@ -619,12 +619,12 @@
  
   
     
-    <li data-nav-id="/4-createec2server/4.3-natgateway/" title="Create NAT Gateway" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/4-createec2server/4.3-natgateway/" title="Create NAT Gateway" class="dd-item 
         
         
         
         ">
-      <a href="/4-createec2server/4.3-natgateway/">
+      <a href="/cicd_lambda_canary_deployment/4-createec2server/4.3-natgateway/">
            <b> 4.3 </b> Create NAT Gateway
           
             <i class="fas fa-check read-icon"></i>
@@ -647,12 +647,12 @@
  
   
     
-    <li data-nav-id="/4-createec2server/4.4.-createreachabilityanalyzer/" title="Using Reachability Analyzer" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/4-createec2server/4.4.-createreachabilityanalyzer/" title="Using Reachability Analyzer" class="dd-item 
         
         
         
         ">
-      <a href="/4-createec2server/4.4.-createreachabilityanalyzer/">
+      <a href="/cicd_lambda_canary_deployment/4-createec2server/4.4.-createreachabilityanalyzer/">
            <b> 4.4 </b> Using Reachability Analyzer
           
             <i class="fas fa-check read-icon"></i>
@@ -675,12 +675,12 @@
  
   
     
-    <li data-nav-id="/4-createec2server/4.5-eicendpoint/" title="Create EC2 Instance Connect Endpoint (Optional)" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/4-createec2server/4.5-eicendpoint/" title="Create EC2 Instance Connect Endpoint (Optional)" class="dd-item 
         
         
         
         ">
-      <a href="/4-createec2server/4.5-eicendpoint/">
+      <a href="/cicd_lambda_canary_deployment/4-createec2server/4.5-eicendpoint/">
            <b> 4.5 </b> Create EC2 Instance Connect Endpoint (Optional)
           
             <i class="fas fa-check read-icon"></i>
@@ -710,12 +710,12 @@
  
   
     
-    <li data-nav-id="/5-vpnsitetosite/" title="Setting Up Site-to-Site VPN Connection in AWS" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/5-vpnsitetosite/" title="Setting Up Site-to-Site VPN Connection in AWS" class="dd-item 
         parent
         
         
         ">
-      <a href="/5-vpnsitetosite/">
+      <a href="/cicd_lambda_canary_deployment/5-vpnsitetosite/">
            <b> 5. </b> Setting Up Site-to-Site VPN Connection in AWS
           
             <i class="fas fa-check read-icon"></i>
@@ -741,12 +741,12 @@
  
   
     
-    <li data-nav-id="/5-vpnsitetosite/5.1-createvpnenv/" title="Create a VPN environment" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/5-vpnsitetosite/5.1-createvpnenv/" title="Create a VPN environment" class="dd-item 
         parent
         
         
         ">
-      <a href="/5-vpnsitetosite/5.1-createvpnenv/">
+      <a href="/cicd_lambda_canary_deployment/5-vpnsitetosite/5.1-createvpnenv/">
            <b> 5.1 </b> Create a VPN environment
           
             <i class="fas fa-check read-icon"></i>
@@ -772,12 +772,12 @@
  
   
     
-    <li data-nav-id="/5-vpnsitetosite/5.1-createvpnenv/5.1.1-createvpnvpc/" title="Create VPC for VPN" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/5-vpnsitetosite/5.1-createvpnenv/5.1.1-createvpnvpc/" title="Create VPC for VPN" class="dd-item 
         
         active
         
         ">
-      <a href="/5-vpnsitetosite/5.1-createvpnenv/5.1.1-createvpnvpc/">
+      <a href="/cicd_lambda_canary_deployment/5-vpnsitetosite/5.1-createvpnenv/5.1.1-createvpnvpc/">
            <b> 5.1.1 </b> Create VPC for VPN
           
             <i class="fas fa-check read-icon"></i>
@@ -800,12 +800,12 @@
  
   
     
-    <li data-nav-id="/5-vpnsitetosite/5.1-createvpnenv/5.1.2-createec2vpn/" title="Create EC2 as a Customer Gateway" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/5-vpnsitetosite/5.1-createvpnenv/5.1.2-createec2vpn/" title="Create EC2 as a Customer Gateway" class="dd-item 
         
         
         
         ">
-      <a href="/5-vpnsitetosite/5.1-createvpnenv/5.1.2-createec2vpn/">
+      <a href="/cicd_lambda_canary_deployment/5-vpnsitetosite/5.1-createvpnenv/5.1.2-createec2vpn/">
            <b> 5.1.2 </b> Create EC2 as a Customer Gateway
           
             <i class="fas fa-check read-icon"></i>
@@ -837,12 +837,12 @@
  
   
     
-    <li data-nav-id="/5-vpnsitetosite/5.2-vpnsitetosite/" title="Configure VPN Connection" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/5-vpnsitetosite/5.2-vpnsitetosite/" title="Configure VPN Connection" class="dd-item 
         
         
         
         ">
-      <a href="/5-vpnsitetosite/5.2-vpnsitetosite/">
+      <a href="/cicd_lambda_canary_deployment/5-vpnsitetosite/5.2-vpnsitetosite/">
            <b> 5.2 </b> Configure VPN Connection
           
             <i class="fas fa-check read-icon"></i>
@@ -868,12 +868,12 @@
  
   
     
-    <li data-nav-id="/5-vpnsitetosite/5.2-vpnsitetosite/5.2.1-createvpgw/" title="Create Virtual Private Gateway" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/5-vpnsitetosite/5.2-vpnsitetosite/5.2.1-createvpgw/" title="Create Virtual Private Gateway" class="dd-item 
         
         
         
         ">
-      <a href="/5-vpnsitetosite/5.2-vpnsitetosite/5.2.1-createvpgw/">
+      <a href="/cicd_lambda_canary_deployment/5-vpnsitetosite/5.2-vpnsitetosite/5.2.1-createvpgw/">
            <b> 5.2.1 </b> Create Virtual Private Gateway
           
             <i class="fas fa-check read-icon"></i>
@@ -896,12 +896,12 @@
  
   
     
-    <li data-nav-id="/5-vpnsitetosite/5.2-vpnsitetosite/5.2.2-createcustomergw/" title="Create Customer Gateway" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/5-vpnsitetosite/5.2-vpnsitetosite/5.2.2-createcustomergw/" title="Create Customer Gateway" class="dd-item 
         
         
         
         ">
-      <a href="/5-vpnsitetosite/5.2-vpnsitetosite/5.2.2-createcustomergw/">
+      <a href="/cicd_lambda_canary_deployment/5-vpnsitetosite/5.2-vpnsitetosite/5.2.2-createcustomergw/">
            <b> 5.2.2 </b> Create Customer Gateway
           
             <i class="fas fa-check read-icon"></i>
@@ -924,12 +924,12 @@
  
   
     
-    <li data-nav-id="/5-vpnsitetosite/5.2-vpnsitetosite/5.2.3-createvpnconnection/" title="Create VPN Connection" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/5-vpnsitetosite/5.2-vpnsitetosite/5.2.3-createvpnconnection/" title="Create VPN Connection" class="dd-item 
         
         
         
         ">
-      <a href="/5-vpnsitetosite/5.2-vpnsitetosite/5.2.3-createvpnconnection/">
+      <a href="/cicd_lambda_canary_deployment/5-vpnsitetosite/5.2-vpnsitetosite/5.2.3-createvpnconnection/">
            <b> 5.2.3 </b> Create VPN Connection
           
             <i class="fas fa-check read-icon"></i>
@@ -952,12 +952,12 @@
  
   
     
-    <li data-nav-id="/5-vpnsitetosite/5.2-vpnsitetosite/5.2.4-configurecustomergw/" title="Customer Gateway Configuration" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/5-vpnsitetosite/5.2-vpnsitetosite/5.2.4-configurecustomergw/" title="Customer Gateway Configuration" class="dd-item 
         
         
         
         ">
-      <a href="/5-vpnsitetosite/5.2-vpnsitetosite/5.2.4-configurecustomergw/">
+      <a href="/cicd_lambda_canary_deployment/5-vpnsitetosite/5.2-vpnsitetosite/5.2.4-configurecustomergw/">
            <b> 5.2.4 </b> Customer Gateway Configuration
           
             <i class="fas fa-check read-icon"></i>
@@ -980,12 +980,12 @@
  
   
     
-    <li data-nav-id="/5-vpnsitetosite/5.2-vpnsitetosite/5.2.5-modifyvpn/" title="Modify AWS VPN Tunnel" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/5-vpnsitetosite/5.2-vpnsitetosite/5.2.5-modifyvpn/" title="Modify AWS VPN Tunnel" class="dd-item 
         
         
         
         ">
-      <a href="/5-vpnsitetosite/5.2-vpnsitetosite/5.2.5-modifyvpn/">
+      <a href="/cicd_lambda_canary_deployment/5-vpnsitetosite/5.2-vpnsitetosite/5.2.5-modifyvpn/">
            <b> 5.2.5 </b> Modify AWS VPN Tunnel
           
             <i class="fas fa-check read-icon"></i>
@@ -1024,12 +1024,12 @@
  
   
     
-    <li data-nav-id="/6-cleanup/" title="Clean up resources" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/6-cleanup/" title="Clean up resources" class="dd-item 
         
         
         
         ">
-      <a href="/6-cleanup/">
+      <a href="/cicd_lambda_canary_deployment/6-cleanup/">
            <b> 6. </b> Clean up resources
           
             <i class="fas fa-check read-icon"></i>
@@ -1050,12 +1050,12 @@
  
   
     
-    <li data-nav-id="/7-test/" title="Clean up resources" class="dd-item 
+    <li data-nav-id="/cicd_lambda_canary_deployment/7-test/" title="Clean up resources" class="dd-item 
         
         
         
         ">
-      <a href="/7-test/">
+      <a href="/cicd_lambda_canary_deployment/7-test/">
            <b> 6. </b> Clean up resources
           
             <i class="fas fa-check read-icon"></i>
@@ -1107,7 +1107,7 @@
                   
                     
                     
-                      <option id="en" value="/5-vpnsitetosite/5.1-createvpnenv/5.1.1-createvpnvpc/" selected>English</option>
+                      <option id="en" value="https://anhuv.github.io/cicd_lambda_canary_deployment/5-vpnsitetosite/5.1-createvpnenv/5.1.1-createvpnvpc/" selected>English</option>
                     
                   
               
@@ -1121,7 +1121,7 @@
                   
                     
                     
-                      <option id="vi" value="/vi/5-vpnsitetosite/5.1-createvpnenv/5.1.1-createvpnvpc/">Tiếng Việt</option>
+                      <option id="vi" value="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/5-vpnsitetosite/5.1-createvpnenv/5.1.1-createvpnvpc/">Tiếng Việt</option>
                     
                   
               
@@ -1213,7 +1213,7 @@
             
           
           
-            <a href='/'>Start with Amazon VPC and AWS VPN Site-to-Site</a> > <a href='/5-vpnsitetosite/'>Setting Up Site-to-Site VPN Connection in AWS</a> > <a href='/5-vpnsitetosite/5.1-createvpnenv/'>Create a VPN environment</a> > Create VPC for VPN
+            <a href='/cicd_lambda_canary_deployment/'>Start with Amazon VPC and AWS VPN Site-to-Site</a> > <a href='/cicd_lambda_canary_deployment/5-vpnsitetosite/'>Setting Up Site-to-Site VPN Connection in AWS</a> > <a href='/cicd_lambda_canary_deployment/5-vpnsitetosite/5.1-createvpnenv/'>Create a VPN environment</a> > Create VPC for VPN
           
         
           
@@ -2027,10 +2027,10 @@
 	 
 	 
 		
-			<a class="nav nav-prev" href="/5-vpnsitetosite/5.1-createvpnenv/" title="Create a VPN environment"> <i class="fa fa-chevron-left"></i></a>
+			<a class="nav nav-prev" href="/cicd_lambda_canary_deployment/5-vpnsitetosite/5.1-createvpnenv/" title="Create a VPN environment"> <i class="fa fa-chevron-left"></i></a>
 		
 		
-			<a class="nav nav-next" href="/5-vpnsitetosite/5.1-createvpnenv/5.1.2-createec2vpn/" title="Create EC2 as a Customer Gateway" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+			<a class="nav nav-next" href="/cicd_lambda_canary_deployment/5-vpnsitetosite/5.1-createvpnenv/5.1.2-createec2vpn/" title="Create EC2 as a Customer Gateway" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
 		
 	
     </div>
@@ -2040,19 +2040,19 @@
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="/js/clipboard.min.js?1709976556"></script>
-    <script src="/js/perfect-scrollbar.min.js?1709976556"></script>
-    <script src="/js/perfect-scrollbar.jquery.min.js?1709976556"></script>
-    <script src="/js/jquery.sticky.js?1709976556"></script>
-    <script src="/js/featherlight.min.js?1709976556"></script>
-    <script src="/js/highlight.pack.js?1709976556"></script>
+    <script src="/cicd_lambda_canary_deployment/js/clipboard.min.js?1709976877"></script>
+    <script src="/cicd_lambda_canary_deployment/js/perfect-scrollbar.min.js?1709976877"></script>
+    <script src="/cicd_lambda_canary_deployment/js/perfect-scrollbar.jquery.min.js?1709976877"></script>
+    <script src="/cicd_lambda_canary_deployment/js/jquery.sticky.js?1709976877"></script>
+    <script src="/cicd_lambda_canary_deployment/js/featherlight.min.js?1709976877"></script>
+    <script src="/cicd_lambda_canary_deployment/js/highlight.pack.js?1709976877"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="/js/modernizr.custom-3.6.0.js?1709976556"></script>
-    <script src="/js/learn.js?1709976556"></script>
-    <script src="/js/hugo-learn.js?1709976556"></script>
+    <script src="/cicd_lambda_canary_deployment/js/modernizr.custom-3.6.0.js?1709976877"></script>
+    <script src="/cicd_lambda_canary_deployment/js/learn.js?1709976877"></script>
+    <script src="/cicd_lambda_canary_deployment/js/hugo-learn.js?1709976877"></script>
 
-    <link href="/mermaid/mermaid.css?1709976556" rel="stylesheet" />
-    <script src="/mermaid/mermaid.js?1709976556"></script>
+    <link href="/cicd_lambda_canary_deployment/mermaid/mermaid.css?1709976877" rel="stylesheet" />
+    <script src="/cicd_lambda_canary_deployment/mermaid/mermaid.js?1709976877"></script>
     <script>
         mermaid.initialize({ startOnLoad: true });
     </script>
