@@ -2,136 +2,136 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/1-iac/1.1-asg/</loc>
+    <loc>https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/vi/1-iac/1.1-asg/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://anhuv.github.io/cicd_lambda_canary_deployment/1-iac/1.1-asg/"
+                href="https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/1-iac/1.1-asg/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/1-iac/1.1-asg/"
+                href="https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/vi/1-iac/1.1-asg/"
                 />
   </url><url>
-    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/2-cicd/2.1-codedeploy/</loc>
+    <loc>https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/vi/2-cicd/2.1-codedeploy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://anhuv.github.io/cicd_lambda_canary_deployment/2-cicd/2.1-codedeploy/"
+                href="https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/2-cicd/2.1-codedeploy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/2-cicd/2.1-codedeploy/"
+                href="https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/vi/2-cicd/2.1-codedeploy/"
                 />
   </url><url>
-    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/1-iac/</loc>
+    <loc>https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/vi/1-iac/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://anhuv.github.io/cicd_lambda_canary_deployment/1-iac/"
+                href="https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/1-iac/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/1-iac/"
+                href="https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/vi/1-iac/"
                 />
   </url><url>
-    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/</loc>
+    <loc>https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/vi/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://anhuv.github.io/cicd_lambda_canary_deployment/"
+                href="https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/"
+                href="https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/vi/"
                 />
   </url><url>
-    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/2-cicd/2.2-codepipeline/</loc>
+    <loc>https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/vi/2-cicd/2.2-codepipeline/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://anhuv.github.io/cicd_lambda_canary_deployment/2-cicd/2.2-codepipeline/"
+                href="https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/2-cicd/2.2-codepipeline/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/2-cicd/2.2-codepipeline/"
+                href="https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/vi/2-cicd/2.2-codepipeline/"
                 />
   </url><url>
-    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/2-cicd/</loc>
+    <loc>https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/vi/2-cicd/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://anhuv.github.io/cicd_lambda_canary_deployment/2-cicd/"
+                href="https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/2-cicd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/2-cicd/"
+                href="https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/vi/2-cicd/"
                 />
   </url><url>
-    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/1-iac/1.2-deploy/</loc>
+    <loc>https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/vi/1-iac/1.2-deploy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://anhuv.github.io/cicd_lambda_canary_deployment/1-iac/1.2-deploy/"
+                href="https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/1-iac/1.2-deploy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/1-iac/1.2-deploy/"
+                href="https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/vi/1-iac/1.2-deploy/"
                 />
   </url><url>
-    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/1-iac/1.3-output/</loc>
+    <loc>https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/vi/1-iac/1.3-output/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://anhuv.github.io/cicd_lambda_canary_deployment/1-iac/1.3-output/"
+                href="https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/1-iac/1.3-output/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/1-iac/1.3-output/"
+                href="https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/vi/1-iac/1.3-output/"
                 />
   </url><url>
-    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/2-cicd/2.3-testing/</loc>
+    <loc>https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/vi/2-cicd/2.3-testing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://anhuv.github.io/cicd_lambda_canary_deployment/2-cicd/2.3-testing/"
+                href="https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/2-cicd/2.3-testing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/2-cicd/2.3-testing/"
+                href="https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/vi/2-cicd/2.3-testing/"
                 />
   </url><url>
-    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/categories/</loc>
+    <loc>https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/vi/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://anhuv.github.io/cicd_lambda_canary_deployment/categories/"
+                href="https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/categories/"
+                href="https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/vi/categories/"
                 />
   </url><url>
-    <loc>https://anhuv.github.io/cicd_lambda_canary_deployment/vi/tags/</loc>
+    <loc>https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/vi/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://anhuv.github.io/cicd_lambda_canary_deployment/tags/"
+                href="https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://anhuv.github.io/cicd_lambda_canary_deployment/vi/tags/"
+                href="https://anhuv.github.io/Terraform-AWS-Static-Website-CICD/vi/tags/"
                 />
   </url>
 </urlset>
