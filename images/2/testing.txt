@@ -1,0 +1,12 @@
+Testing the CI/CD Pipeline
+Kiểm thử luồng CI/CD
+
+
+Make a change to the code in the main branch of your GitHub repository.
+
+Before:
+[before]2/nginx-browser1.jpg
+
+
+After:
+[after]2/nginx-browser2.jpg
